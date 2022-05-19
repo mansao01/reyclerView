@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotoGpRiderss</string>
+    <string name="rider_name">Rider Name</string>
+    <string name="riders_desc">Riders Desc</string>
+</resources>
